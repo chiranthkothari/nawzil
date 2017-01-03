@@ -1,0 +1,70 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.fb-color .accent,
+.fb-color .accentBg,
+.fb-color .accentBgHover:hover,
+.fb-color .accentBgHover a:hover,
+.fb-color .live-tile > div,
+.fb-color .copy-tile > div,
+.fb-color .live-tile > .face,
+.fb-color .copy-tile > .face,
+.fb-color .live-tile > .slide,
+.fb-color .live-tile > .flip-back,
+.fb-color .live-tile > .flip-front,
+.fb-color .live-tile > .slide-back,
+.fb-color .live-tile > .slide-front,
+.fb-color .list-tile > div,
+.fb-color .flip-list > li > div {
+  background-color: #3b5998;
+}
+.fb-color .accentColor,
+.fb-color .accentHover:hover,
+.fb-color .accentHover a:hover,
+.fb-color .accentLink a,
+.fb-color .accentLink a:hover,
+.fb-color .accentLink a:visited,
+.fb-color a.accentLink,
+.fb-color a.accentLink:hover,
+.fb-color a.accentLink:visited {
+  color: #3b5998;
+}
+.fb-color .accentBorder {
+  border-color: #3b5998;
+}
+.fb-color .accentBorderBottom {
+  border-bottom-color: #3b5998;
+}
+.fb-color .accentBorderLeft {
+  border-left-color: #3b5998;
+}
+.fb-color .accentBorderRight {
+  border-right-color: #3b5998;
+}
+.fb-color .accentBorderTop {
+  border-top-color: #3b5998;
+}
+
+.logo{
+	padding-top: 22px;
+}
+.social{
+    text-align: left;
+    padding-left: -33px;
+}
+.socail-span{
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+.main-container{
+	width: auto;
+	height: auto;
+	display: table;
+}
+.text-vertical-center{
+	width: auto;
+	height: auto;
+	display: table-cell;
+	vertical-align: middle;
+}
